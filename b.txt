@@ -1,4 +1,1 @@
-first line - local1
-hello boss 123
-added one line
-4th line
+Modified the file
