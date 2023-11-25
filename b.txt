@@ -1,2 +1,1 @@
-All files cleared
-and added new lines.
+new text document
